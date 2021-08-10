@@ -1,0 +1,27 @@
+{
+    "homepage": {
+        "show_call_box": true
+    },
+    "logo": {
+        "mobile": "/images/logo/logo-mobile.svg",
+        "desktop": "/images/logo/logo.svg",
+        "desktop_height": "36px",
+        "alt": "For You Accounting"
+    },
+    "homepage_meta_tags": {
+        "meta_description": "For You Accounting - One Of Canada &apos; Leading Accounting Firms.",
+        "meta_og_title": "For You Accounting",
+        "meta_og_type": "website",
+        "meta_og_url": "https://foryouaccounting.jackjona.live",
+        
+        "meta_og_description": "For You Accounting - One Of Canada &apos; Leading Accounting Firms.",
+        "meta_twitter_card": "summary",
+        "meta_twitter_site": "@jackjona123",
+        "meta_twitter_creator": "@jackjona123"
+    },
+    "footer": {
+        "copyright_text": "© 2021 Jack Jona",
+        "copyright_link": ""
+    }
+}
+
